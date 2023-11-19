@@ -1,18 +1,18 @@
 # Siarhei Yemelianau
 
 <details>
-<summary><i>Software engineer based in Belarus</i></summary>
+  <summary><i>Software engineer based in Belarus</i></summary>
+  <blockquote>
+    As a <i>software engineer</i> specializing in web development with a focus on <b>JavaScript</b>,
+    my goal is to continually advance my skills and contribute to innovative projects.
+    I am passionate about creating efficient,
+    user-friendly solutions that enhance the online experience.
 
-> As a *software engineer* specializing in web development with a focus on `JavaScript`,
-my goal is to continually advance my skills and contribute to innovative projects.
-I am passionate about creating efficient,
-user-friendly solutions that enhance the online experience.
->
-> My wishes revolve around professional growth, staying on the cutting edge of technology,
-and collaborating with like-minded individuals.
-Ultimately, I aspire to make a meaningful impact in the tech world by
-delivering high-quality software solutions.
-
+    My wishes revolve around professional growth, staying on the cutting edge of technology,
+    and collaborating with like-minded individuals.
+    Ultimately, I aspire to make a meaningful impact in the tech world by
+    delivering high-quality software solutions.
+  </blockquote>
 </details>
 
 [Email](mailto:xemelyanov@gmail.com) /
@@ -83,8 +83,6 @@ WebStorm, Notion, Jira, Confluence, Hubstaff.
 [Gomel State University named after Francis Skaryna](https://www.gsu.by) - Gomel, Belarus _(Sep 2017 - Jun 2021)_
 
 ## 🚀 Skills
-
-<hr>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
