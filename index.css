@@ -69,3 +69,16 @@ footer img {
 .logo {
   width: fit-content;
 }
+
+pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 5px;
+  overflow-x: auto;
+}
+
+code {
+  color: #d14;
+  background-color: transparent;
+  padding: 0;
+}
